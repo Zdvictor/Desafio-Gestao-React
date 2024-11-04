@@ -1,0 +1,45 @@
+.preview-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.1);
+    opacity: 0.8;
+    padding: 30px;
+}
+
+.preview-footer-container {
+}
+
+.preview-footer-left {
+    
+    margin-top: 5px;
+    float: left;
+    display: flex;
+    gap: 5px;
+    cursor: pointer;
+    align-items: center;
+    color: rgb(0, 191, 216);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.preview-footer-right button {
+
+    float: right;
+    display: flex;
+    justify-content: end;
+    background-color: #005be4;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+.preview-footer-right button:hover {
+
+
+    background-color: #002f75;
+
+}

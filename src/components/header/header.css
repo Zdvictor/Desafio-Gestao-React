@@ -1,0 +1,58 @@
+/* header.css */
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-logo-and-step {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-self: center;
+}
+
+.header-logo {
+    width: 250px;
+    margin-left: 20px;
+}
+
+.header-divider {
+    height: 70px;
+    display: flex;
+    border-right: 2px solid #cccc;
+}
+
+.header-step-info {
+    display: flex;
+    margin-left: 20px;
+}
+
+.header-step-info h5 {
+    color: #686767cc;
+}
+
+.header-home-icon {
+    display: flex;
+    align-items: center;
+    align-self: center;
+}
+
+.header-home-icon i {
+    margin-left: 20px;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+
+@media(max-width: 1150px) {
+
+    .header-logo {
+
+        width: 80%;
+        margin-left: 10px;
+        
+    }
+
+}
