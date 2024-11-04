@@ -1,6 +1,6 @@
 Acesse meu Projeto: https://portfolio-zdvictor.netlify.app
 
-By Zdvictor with only HTML, CSS, JS, Material-Ui, React + Firebase, EmailsJS, + API Express.JS
+By Zdvictor with only HTML, CSS, JS, Material-Ui, React + Firebase, EmailsJS + API Express.JS
 
 🚀 O projeto é uma aplicação desenvolvida como parte de um desafio proposto pela empresa Taugor, que atua com soluções corporativas em tecnologia da informação. Essa aplicação de gestão de documentos cadastrais permite exclusivamente ao administrador cadastrar, atualizar e excluir registros de funcionários. Ao adicionar um novo funcionário, os dados são preenchidos e organizados em um documento PDF, seguindo um padrão específico. Em atualizações, o sistema cria um histórico de alterações, possibilitando visualizar todas as modificações realizadas.
 
