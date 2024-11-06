@@ -1,4 +1,4 @@
-Acesse meu Projeto: https://desafio-gestao-react.vercel.app/painel-admin
+Acesse meu Projeto: https://desafio-gestao-react.vercel.app
 
 By Zdvictor with only HTML, CSS, JS, Material-Ui, React + Firebase, EmailsJS + API Express.JS
 
