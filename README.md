@@ -19,3 +19,10 @@ Somente o administrador pode realizar o cadastro, alterações e exclusões de d
 
 
 Este projeto é voltado para atender demandas de gerenciamento de conteúdo corporativo, permitindo à Taugor oferecer uma solução robusta para clientes que necessitam de controle eficiente de documentos e dados de funcionários. <br />
+
+## Deseja testar a aplicação?
+
+Utilize as credenciais de login abaixo para acessar:
+
+**E-mail:** `tstvtit@gmail.com`  
+**Senha:** `admintaugor`
